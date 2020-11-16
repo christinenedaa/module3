@@ -1,0 +1,17 @@
+.navbar navbar-inverse{
+    background-color: gainsboro;
+}
+.container{
+    padding: 0px;
+    border: 1px solid black;
+    margin: 35px;
+    width: 96%;
+    overflow: auto;
+    box-sizing: border-box;
+    float: left;
+    flex-flow: column;
+}
+#content1{
+    background-color: darkgray;
+    padding: 0px 0px 10px 15px;
+}
